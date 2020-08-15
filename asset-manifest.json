@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Drone_Defence_Counter/static/css/main.59ceaa8f.chunk.css",
+    "main.css": "/Drone_Defence_Counter/static/css/main.f0f8684c.chunk.css",
     "main.js": "/Drone_Defence_Counter/static/js/main.499a7101.chunk.js",
     "main.js.map": "/Drone_Defence_Counter/static/js/main.499a7101.chunk.js.map",
     "runtime-main.js": "/Drone_Defence_Counter/static/js/runtime-main.d2fdb242.js",
@@ -8,16 +8,16 @@
     "static/js/2.6589ab7e.chunk.js": "/Drone_Defence_Counter/static/js/2.6589ab7e.chunk.js",
     "static/js/2.6589ab7e.chunk.js.map": "/Drone_Defence_Counter/static/js/2.6589ab7e.chunk.js.map",
     "index.html": "/Drone_Defence_Counter/index.html",
-    "precache-manifest.d3963f48feb0119a8375f9ff7da15970.js": "/Drone_Defence_Counter/precache-manifest.d3963f48feb0119a8375f9ff7da15970.js",
+    "precache-manifest.575fd6a32e7e400744e50cd46d2bfb45.js": "/Drone_Defence_Counter/precache-manifest.575fd6a32e7e400744e50cd46d2bfb45.js",
     "service-worker.js": "/Drone_Defence_Counter/service-worker.js",
-    "static/css/main.59ceaa8f.chunk.css.map": "/Drone_Defence_Counter/static/css/main.59ceaa8f.chunk.css.map",
+    "static/css/main.f0f8684c.chunk.css.map": "/Drone_Defence_Counter/static/css/main.f0f8684c.chunk.css.map",
     "static/js/2.6589ab7e.chunk.js.LICENSE.txt": "/Drone_Defence_Counter/static/js/2.6589ab7e.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/Drone_Defence_Counter/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.d2fdb242.js",
     "static/js/2.6589ab7e.chunk.js",
-    "static/css/main.59ceaa8f.chunk.css",
+    "static/css/main.f0f8684c.chunk.css",
     "static/js/main.499a7101.chunk.js"
   ]
 }
